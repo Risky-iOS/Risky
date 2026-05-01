@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>RISKY_TERRAIN_PUBLIC_URL</key>
+	<string>$(RISKY_TERRAIN_PUBLIC_URL)</string>
+	<key>RISKY_TERRAIN_MANIFEST_PATH</key>
+	<string>$(RISKY_TERRAIN_MANIFEST_PATH)</string>
+	<key>GITHUB_TOKEN</key>
+	<string>$(GITHUB_TOKEN)</string>
+	<key>RISKY_GITHUB_OWNER</key>
+	<string>$(RISKY_GITHUB_OWNER)</string>
+	<key>RISKY_GITHUB_REPO</key>
+	<string>$(RISKY_GITHUB_REPO)</string>
+</dict>
+</plist>

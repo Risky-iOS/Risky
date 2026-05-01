@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>questions</key>
+	<array>
+		<dict>
+			<key>category</key>
+			<string>pilot</string>
+			<key>title</key>
+			<string>Feeling unwell</string>
+			<key>type</key>
+			<dict>
+				<key>kind</key>
+				<string>yesNo</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>category</key>
+			<string>pilot</string>
+			<key>title</key>
+			<string>Taking medication that affects performance</string>
+			<key>type</key>
+			<dict>
+				<key>kind</key>
+				<string>yesNo</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>category</key>
+			<string>pilot</string>
+			<key>title</key>
+			<string>Significant life stress</string>
+			<key>type</key>
+			<dict>
+				<key>kind</key>
+				<string>yesNo</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>category</key>
+			<string>pilot</string>
+			<key>title</key>
+			<string>Recently consumed alcohol</string>
+			<key>type</key>
+			<dict>
+				<key>kind</key>
+				<string>yesNo</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>category</key>
+			<string>pilot</string>
+			<key>title</key>
+			<string>Poor sleep</string>
+			<key>type</key>
+			<dict>
+				<key>kind</key>
+				<string>yesNo</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>category</key>
+			<string>pilot</string>
+			<key>title</key>
+			<string>Upset, angry, or distracted</string>
+			<key>type</key>
+			<dict>
+				<key>kind</key>
+				<string>yesNo</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>category</key>
+			<string>pilot</string>
+			<key>title</key>
+			<string>Haven&apos;t flown this type in a while</string>
+			<key>type</key>
+			<dict>
+				<key>kind</key>
+				<string>yesNo</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>category</key>
+			<string>aircraft</string>
+			<key>title</key>
+			<string>Recent maintenance work</string>
+			<key>type</key>
+			<dict>
+				<key>kind</key>
+				<string>yesNo</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>category</key>
+			<string>aircraft</string>
+			<key>title</key>
+			<string>Fuel-limited</string>
+			<key>type</key>
+			<dict>
+				<key>kind</key>
+				<string>yesNo</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>category</key>
+			<string>environment</string>
+			<key>title</key>
+			<string>Unfamiliar airport</string>
+			<key>type</key>
+			<dict>
+				<key>kind</key>
+				<string>yesNo</string>
+			</dict>
+			<key>airportApplicability</key>
+			<string>both</string>
+		</dict>
+		<dict>
+			<key>category</key>
+			<string>externalPressures</string>
+			<key>title</key>
+			<string>Passengers depending on this flight</string>
+			<key>type</key>
+			<dict>
+				<key>kind</key>
+				<string>yesNo</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>category</key>
+			<string>externalPressures</string>
+			<key>title</key>
+			<string>Hard arrival commitment</string>
+			<key>type</key>
+			<dict>
+				<key>kind</key>
+				<string>yesNo</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>category</key>
+			<string>externalPressures</string>
+			<key>title</key>
+			<string>Eager to get home</string>
+			<key>type</key>
+			<dict>
+				<key>kind</key>
+				<string>yesNo</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
